@@ -1,4 +1,4 @@
-# ![alt text](<icons/jean v c.png>) Jean Vinicius Cardoso Kuster
+#  Jean Vinicius Cardoso Kuster
 
 **`Futuro Desenvolvedor FullStack`**
 
